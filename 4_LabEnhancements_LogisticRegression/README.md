@@ -8,7 +8,7 @@ This repository delves into the essential concepts of Logistic Regression, a fun
 
 | Student Name                   | Student ID | Contribution                                            |
 |---------------------------------|------------|--------------------------------------------------------|
-| Luqman Syakir bin Adong         | 1201101594 | Enhanced the entire lab for K-Means Clustering         |
+| Luqman Syakir bin Adong         | 1201101594 | Enhanced lab for K-Means Clustering         |
 | Nurzafirah Syazana              | 1201101587 | Enhanced lab for PCA.                                  |
 | Muhammad Faiez Bin Kamarul      | 1201101051 | Enhanced lab for Logistic Regression. (this lab.)      |
 | Afif Dzakirin Bin Mohd Azli     | 1201101864 | Enhanced lab for Linear Regression.                    |

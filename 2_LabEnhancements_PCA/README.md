@@ -8,8 +8,8 @@ This repository delves into advanced concepts of Principal Component Analysis (P
 
 | Student Name                    | Student ID | Contribution                                           |
 |---------------------------------|------------|--------------------------------------------------------|
-| Nurzafirah Syazana (this lab.)  | 1201101587 | Enhanced lab for PCA.                                  |
-| Luqman Syakir bin Adong         | 1201101594 | Enhanced the entire lab for K-Means Clustering.        |
+| Nurzafirah Syazana   | 1201101587 | Enhanced lab for PCA.  (this lab.)                                |
+| Luqman Syakir bin Adong         | 1201101594 | Enhanced lab for K-Means Clustering.        |
 | Muhammad Faiez Bin Kamarul      | 1201101051 | Enhanced lab for Logistic Regression.                  |
 | Afif Dzakirin Bin Mohd Azli     | 1201101864 | Enhanced lab for Linear Regression.                    |
  

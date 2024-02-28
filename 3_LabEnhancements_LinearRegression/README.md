@@ -8,10 +8,10 @@ This repository dives into the fundamentals of Linear Regression, a foundational
 
 | Student Name                   | Student ID | Contribution                                           |
 |---------------------------------|------------|--------------------------------------------------------|
-| Luqman Syakir bin Adong         | 1201101594 | Enhanced the entire lab for K-Means Clustering       |
+| Luqman Syakir bin Adong         | 1201101594 | Enhanced lab for K-Means Clustering       |
 | Nurzafirah Syazana              | 1201101587 | Enhanced lab for PCA.                                  |
-| Muhammad Faiez Bin Kamarul      | 1201101051 | Enhanced lab for Logistic Regression.  Scratch.                     |
-| Afif Dzakirin Bin Mohd Azli     | 1201101864 | Enhanced lab for Linear Regression.(this lab)                     |
+| Muhammad Faiez Bin Kamarul      | 1201101051 | Enhanced lab for Logistic Regression.                     |
+| Afif Dzakirin Bin Mohd Azli     | 1201101864 | Enhanced lab for Linear Regression. (this lab)                     |
 
 ## Contents
 
